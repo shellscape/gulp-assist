@@ -1,6 +1,13 @@
 # gulp-assist
 
-> Display helpful information for your Gulp tasks
+Display helpful information for your Gulp tasks
+
+## &nbsp;
+<p align="center">
+  <b>:rocket: &nbsp; Are you ready to tackle ES6 and hone your JavaScript Skills?</b> &nbsp; :rocket:<br/>
+  Check out these outstanding <a href="https://es6.io/">ES6 courses</a> by <a href="https://github.com/wesbos">@wesbos</a>
+</p>
+---
 
 gulp-assist presents basic info registered tasks in a stylish format by extending
 `gulp` with an additional method to describe tasks and their flags. gulp-assist
