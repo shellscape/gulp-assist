@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "chalk": "^2.0.0",
-    "string-length": "^1.0.1",
+    "string-length": "^2.0.0",
     "text-table": "^0.2.0",
     "yargs": "^8.0.1"
   },
